@@ -4,7 +4,7 @@
 #
 %include	/usr/lib/rpm/macros.perl
 %define	pdir	Cisco
-%define pnam	Reconfig
+%define	pnam	Reconfig
 Summary:	Cisco::Reconfig - parse and generate Cisco configuration files
 Summary(pl):	Cisco::Reconfig - analiza i generowanie plików konfiguracyjnych Cisco
 Name:		perl-Cisco-Reconfig
