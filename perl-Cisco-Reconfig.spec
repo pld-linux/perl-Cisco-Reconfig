@@ -3,8 +3,8 @@
 %bcond_without	tests	# do perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Cisco
-%define	pnam	Reconfig
+%define		pdir	Cisco
+%define		pnam	Reconfig
 Summary:	Cisco::Reconfig - parse and generate Cisco configuration files
 Summary(pl):	Cisco::Reconfig - analiza i generowanie plików konfiguracyjnych Cisco
 Name:		perl-Cisco-Reconfig
