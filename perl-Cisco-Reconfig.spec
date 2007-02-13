@@ -6,7 +6,7 @@
 %define		pdir	Cisco
 %define		pnam	Reconfig
 Summary:	Cisco::Reconfig - parse and generate Cisco configuration files
-Summary(pl.UTF-8):   Cisco::Reconfig - analiza i generowanie plików konfiguracyjnych Cisco
+Summary(pl.UTF-8):	Cisco::Reconfig - analiza i generowanie plików konfiguracyjnych Cisco
 Name:		perl-Cisco-Reconfig
 Version:	0.8
 Release:	1
